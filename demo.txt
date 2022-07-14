@@ -1,6 +1,0 @@
-Hello world!!! This is demo file.
-You can write demo data.
-I have added more data.
-
-1234
-567
